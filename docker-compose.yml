@@ -1,0 +1,10 @@
+services:
+  www:
+    build:
+      context: . 
+      dockerfile: Dockerfile
+    volumes:
+      - "./src/:/var/www/html"
+      - "./data:/app/data"
+    ports:
+      - 80:80
