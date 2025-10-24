@@ -2,7 +2,7 @@
 
 İlk olarak projemin feature complete olmaması içler acısı. 20 günlük sürenin son 1,5 gününde yapmaya çalıştığım için oldu bu 😭. Feature complete olmadığı için hardening ve security audit işine hiç giremedim. File upload açıklarını engellemeye çalışmak için logoları sadece admin tarafından değiştirilebilir yaptım. 
 
-Kodun %99'unu gemini ai pro yazdı ve akla karayı seçtirdi. Garip gurup halisinasyonları düzeltmek için çok uğraştım. Belki de 2.5-flash kullandığım içindi ama 2.5-pro'da bariz fark göremedim.
+Kodun %99'unu gemini ai pro yazdı ve akla karayı seçtirdi. Garip gurup halüsinasyonları düzeltmek için çok uğraştım. Belki de 2.5-flash kullandığım içindi ama 2.5-pro'da bariz fark göremedim.
 
 Projeye başlamayı hiç istemiyordum çünkü apache/nginx, php, sql ve docker kullanmayı hiç bilmediğim aletler idi. 
 
